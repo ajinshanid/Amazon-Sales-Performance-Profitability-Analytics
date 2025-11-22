@@ -92,5 +92,5 @@ Profit Margin % provides a clearer measure of financial efficiency beyond revenu
 - Trend and profitability analysis
 - Business-focused recommendations and storytelling
 
-## 10. Summary
+## 9. Summary
 This project highlights the transformation of raw transactional data into clear, actionable insights using modern analytics tools. It demonstrates strong capabilities in data analysis, KPI reporting, financial interpretation, and insight-driven storytelling—core competencies for data and business analyst roles.

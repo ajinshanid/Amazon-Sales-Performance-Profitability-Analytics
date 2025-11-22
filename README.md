@@ -2,7 +2,7 @@
 ### Data Analysis Using Python, SQL (Snowflake), and Power BI
 
 ## Overview
-This project analyzes Amazon sales data to uncover revenue concentration, profitability trends, and shipment dependency risks. Key findings show that sales are heavily driven by major cities, profitability peaks mid-year, and 44% of shipments rely on a single carrier. Strong profit margins (~49%) indicate operational efficiency and suggest potential for strategic expansion into mid-tier regions and high-value product categories. The goal is to transform raw data into insights that support decisions in marketing, inventory planning, and logistics strategy.
+Analysis shows that revenue is concentrated in major cities, profits rise seasonally, and operations rely heavily on a single logistics provider. With profit margins nearing nearly half of total revenue, the business is positioned to pursue growth in additional regions and product segments.
 
 ## 1. Business Objective
 The analysis aims to:
@@ -93,4 +93,4 @@ Profit Margin % provides a clearer measure of financial efficiency beyond revenu
 - Business-focused recommendations and storytelling
 
 ## 9. Summary
-This project highlights the transformation of raw transactional data into clear, actionable insights using modern analytics tools. It demonstrates strong capabilities in data analysis, KPI reporting, financial interpretation, and insight-driven storytelling—core competencies for data and business analyst roles.
+The analysis delivers a clear view of sales performance, profitability patterns, and carrier dependency, turning raw data into insights that inform regional focus, product strategy, and operational planning. It reflects strong analytical thinking and the ability to translate data into business decisions.

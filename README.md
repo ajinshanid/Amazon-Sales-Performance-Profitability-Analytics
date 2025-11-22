@@ -1,23 +1,30 @@
 # Amazon Sales Performance & Profitability Analytics
 ### Data Analysis Using Python, SQL (Snowflake), and Power BI
 
+## Overview
+This project analyzes Amazon sales data to uncover revenue concentration, profitability trends, and shipment dependency risks. Key findings show that sales are heavily driven by major cities, profitability peaks mid-year, and 44% of shipments rely on a single carrier. Strong profit margins (~49%) indicate operational efficiency and suggest potential for strategic expansion into mid-tier regions and high-value product categories. The goal is to transform raw data into insights that support decisions in marketing, inventory planning, and logistics strategy.
+
 ## 1. Business Objective
-The analysis focuses on uncovering:
-- Regions generating the highest revenue and profit
-- Product categories driving overall performance
-- Month-over-month changes in profitability
-- Shipment volume distribution across carriers
+The analysis aims to:
+- Identify high-performing regions and product categories
+- Understand month-over-month profit trends
+- Evaluate shipment carrier dependency
+- Highlight growth opportunities and operational risks
 
-Insights are intended to support data-driven decisions in marketing, inventory management, and logistics planning.
+## 2. Business Questions Answered
+- Which cities contribute most to revenue and profit?
+- Which product categories drive performance?
+- When are profits highest or lowest throughout the year?
+- Is the business overly dependent on a single shipment carrier?
+- Do financial margins support expansion into additional regions?
 
-## 2. Target Audience
-Primary users include:
+## 3. Target Audience
 - Sales Managers
 - Business Analysts
 - Operations and Logistics Teams
 - Leadership and Strategy Teams
 
-## 3. Technical Architecture
+## 4. Technical Architecture
 
 Raw CSV  
 → Python (Pandas): Data cleaning and formatting  
@@ -32,55 +39,58 @@ Raw CSV
 - DIM_CARRIER
 - DIM_DATE
 
-## 4. Key Performance Indicators (KPIs)
+This architecture supports fast querying, flexible filtering, and scalable analytics.
+
+## 5. Key Performance Indicators (KPIs)
 - Total Revenue
 - Total Cost
 - Total Profit
 - Profit Margin %
 - Units Sold
 
-Profit Margin % provides a clearer view of financial efficiency beyond revenue totals.
+Profit Margin % provides a clearer measure of financial efficiency beyond revenue totals and supports feasibility assessments for expansion.
 
-## 5. Dashboard Structure and Insights
+## 6. Dashboard Structure and Insights
 
 ### A) Regional Performance
 **Revenue by City (Bar Chart)**  
-- Highlights top-revenue cities and demand patterns  
-- Action: Prioritize marketing and inventory in high-performing regions.
+- Reveals concentration in top cities  
+- Action: Focus marketing and inventory efforts in leading regions.
 
 ### B) Category Performance
 **Revenue by Category (Scatter Plot with Legend)**  
-- Compares product categories by revenue and volume  
-- Action: Apply targeted pricing and promotional strategies to high-value categories.
+- Compares categories by revenue and volume  
+- Action: Target high-value categories with optimized pricing and promotions.
 
 ### C) Profitability Over Time
 **Monthly Profit Trend (Line Chart)**  
-- Shows changes in monthly profit  
-- Action: Align promotional and resource planning with seasonal peaks.
+- Shows mid-year profit peak  
+- Action: Align promotional and staffing plans with seasonal demand spikes.
 
 ### D) Shipment Carrier Dependency
 **Units Sold by Shipment Carrier (Donut Chart)**  
-- Intelcom accounts for ~44% of shipments  
-- Action: Assess alternate carriers to reduce dependency risk.
+- Intelcom handles ~44% of shipments  
+- Action: Assess additional carriers to reduce dependency and operational risk.
 
-## 6. Key Insights and Recommended Actions
+## 7. Key Insights and Recommended Actions
 
 | Insight | Recommended Action |
 |--------|--------------------|
-| Revenue concentrated in top cities | Focus marketing and inventory in leading regions |
-| Electronics and similar categories lead revenue | Use pricing strategies to drive additional unit sales |
-| Profit peaks in July | Align inventory and promotions with mid-year demand |
+| Revenue concentrated in top cities | Prioritize investment in high-performing regions |
+| Electronics and similar categories lead revenue | Use pricing strategies to drive incremental unit sales |
+| Profit peaks in July | Plan inventory and promotions around mid-year demand |
 | 44% handled by Intelcom | Explore additional carrier partnerships |
-| Strong profit margin % | Consider expansion into mid-tier cities with controlled risk |
+| ~49% profit margin | Expansion into mid-tier regions is financially viable |
 
-## 7. Skills Demonstrated
+
+## 8. Skills Demonstrated
 - Data cleaning and preparation (Python, Pandas)
 - SQL-based analytical querying (Snowflake)
 - Dimensional modeling and star schema design
 - KPI development and performance measurement
 - Dashboard design and visualization (Power BI, DAX)
-- Trend analysis and insight generation
+- Trend and profitability analysis
 - Business-focused recommendations and storytelling
 
-## 8. Summary
-The project highlights the transformation of raw sales data into clear, actionable insights using modern analytics tools. It reflects strengths in data analysis, KPI reporting, visualization, and business-oriented decision support.
+## 10. Summary
+This project highlights the transformation of raw transactional data into clear, actionable insights using modern analytics tools. It demonstrates strong capabilities in data analysis, KPI reporting, financial interpretation, and insight-driven storytelling—core competencies for data and business analyst roles.

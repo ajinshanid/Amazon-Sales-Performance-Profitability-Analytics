@@ -48,11 +48,11 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Logical Visual Flow for Storytelling:**
 - **KPI Cards (first column, top-to-bottom):** Revenue → Cost → Profit → Profit Margin % → Units Sold (vertically aligned)
 - **Top Row:**  
-  - **Revenue by City (Bar Chart):** Focused comparison, not timeline. *Use*: Direct investment & marketing efforts to top regions.  
-  - **Category Price and Cost Distribution (Scatter Plot with Legend):** Compares categories clearly; legend for instant interpretation. *Use*: Optimize product/pricing strategy.
+  - **Revenue by City (Bar Chart):** Focused comparison, not timeline. *
+  - **Category Price and Cost Distribution (Scatter Plot with Legend):** Compares categories clearly; legend for instant interpretation.
 - **Bottom Row:**  
-  - **Profit Trend and Forecast (Line Chart):** Monthly profit history + future predictions (confidence band). *Use*: Plan upcoming inventory, staffing based on forecasts.
-  - **Units Sold by Shipment Carrier (Donut Chart):** Instantly see logistics risk profile. *Use*: Negotiate, diversify, and secure logistics partners.
+  - **Profit Trend and Forecast (Line Chart):** Monthly profit history + future predictions.
+  - **Units Sold by Shipment Carrier (Donut Chart):** Instantly see logistics risk profile.
 
 ---
 

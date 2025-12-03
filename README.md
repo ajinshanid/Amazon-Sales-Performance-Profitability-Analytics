@@ -1,4 +1,4 @@
-# Amazon Sales Performance & Profitability Analytics  
+`# Amazon Sales Performance & Profitability Analytics  
 ### Data Analysis Using Python, SQL (Snowflake), and Power BI
 
 ---
@@ -33,7 +33,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Workflow:**
 1. **Data Sources:** Import sales/order CSVs; gather operational logistics data
 2. **Python (Pandas):** Clean, standardize, and enrich all records
-3. **Snowflake:** Create star schema—Fact table + dimensions for Date, Product, City, Manager, Carrier
+3. **Snowflake:** Created star schema consisting of Fact table + dimensions for Date, Product, City, Manager, Carrier
 4. **SQL Analytics:** Efficient queries to extract and aggregate KPIs, join dimension tables
 5. **Power BI:**  
    - Direct Snowflake connector for live dashboards
@@ -72,3 +72,4 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 The dashboard and supporting analytics pipeline are purpose-built for business impact. Insights are presented in a clear, visually aligned format that ensures quick comprehension and drives targeted action. Forecasting capabilities, transparent KPIs, and a logically structured layout combine to make this solution a powerful asset for managers and executives, assisting smarter decisions from everyday operations to long-term strategic planning.
 
+`

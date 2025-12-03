@@ -30,7 +30,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 ## Technical Architecture
 
 **Workflow:**
-1. **Data Sources:** Import sales/order CSVs; gather operational logistics data
+1. **Data Sources:** Import a synthetic Amazon‑style sales dataset created by combining and reshaping multiple public e‑commerce samples
 2. **Python (Pandas):** Clean, standardize, and enrich all records
 3. **Snowflake:** Created star schema consisting of Fact table and dimensions for Date, Product, City, Manager and Carrier
 4. **Power BI:**  

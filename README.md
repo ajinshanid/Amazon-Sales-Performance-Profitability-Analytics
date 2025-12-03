@@ -56,15 +56,15 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 ---
 
-## Strategic Insights & Business Impact
+## Key Insights and Recommended Actions
 
-| Finding                                      | Recommended Actions                                              |
-|-----------------------------------------------|---------------------------------------------------------------------|
-| Top cities concentrate revenue                | Expand digital marketing and supply in leading regions              |
-| Electronics/categories outperform others      | Increase promotions, optimize pricing and inventory in these lines  |
-| Profit peaks in July, forecast suggests growth| Align promotional campaigns, staffing, and stock to forecasted demand|
-| Majority shipments via Intelcom (44%)         | Diversify carriers to reduce operational risk and negotiate better terms |
-| Profit Margin represents over one-quarter of total revenue             | Set target margin, monitor cost-by-city, and validate expansion feasibility |
+| Findings                                    | Recommended Actions                                              |
+|---------------------------------------------|------------------------------------------------------------------|
+| Top cities concentrate revenue              | Expand digital marketing and supply in leading regions          |
+| Electronics/categories outperform others    | Prioritize these categories with targeted promotions and optimized pricing.|
+| Profit peaks in July, forecast suggests growth | Align promotional campaigns, staffing, and stock to forecasted demand |
+| Majority shipments via Intelcom (44%)       | Diversify carriers to reduce operational risk and negotiate better terms |
+| Profit margin is over one-quarter of total revenue | Set target margin, monitor cost-by-city, and validate expansion feasibility |
 
 ---
 

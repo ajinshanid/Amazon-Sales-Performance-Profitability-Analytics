@@ -72,4 +72,3 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 The dashboard and supporting analytics pipeline are purpose-built for business impact. Insights are presented in a clear, visually aligned format that ensures quick comprehension and drives targeted action. Forecasting capabilities, transparent KPIs, and a logically structured layout combine to make this solution a powerful asset for managers and executives, assisting smarter decisions from everyday operations to long-term strategic planning.
 
-`

@@ -33,7 +33,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Workflow:**
 1. **Data Sources:** Import sales/order CSVs; gather operational logistics data
 2. **Python (Pandas):** Clean, standardize, and enrich all records
-3. **Snowflake:** Created star schema consisting of Fact table and dimensions for Date, Product, City, Manager, Carrier
+3. **Snowflake:** Created star schema consisting of Fact table and dimensions for Date, Product, City, Manager and Carrier
 4. **SQL Analytics:** Efficient queries to extract and aggregate KPIs, join dimension tables
 5. **Power BI:**  
    - Direct Snowflake connector for live dashboards

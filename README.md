@@ -21,9 +21,9 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 - Operations & Logistics: Monitor carrier concentration, mitigate delivery risks
 
 **Value:**  
-- Clear, vertically aligned KPIs: Revenue, Cost, Profit, Profit Margin %
-- Forecast charts enabling *forward-looking* decisions
-- Storytelling layout: All visuals in logical left-to-right, top-to-bottom flow for intuitive navigation and understanding
+- Vertically aligned KPIs (Revenue, Cost, Profit, Profit Margin %) provide an immediate view of commercial performance.
+- Revenue trend and forecast visuals inform forward-looking planning for stock and resourcing
+- A structured, storytelling layout guides stakeholders from high‑level results to detailed operational insights.
 
 ---
 

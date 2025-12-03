@@ -60,8 +60,8 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 | Findings                                    | Recommended Actions                                              |
 |---------------------------------------------|------------------------------------------------------------------|
 | Top cities concentrate revenue              | Expand digital marketing and supply in leading regions          |
-| Electronics/categories outperform others    | Prioritize these categories with targeted promotions and optimized pricing.|
-| Profit peaks in July, forecast suggests growth | Align promotional campaigns, staffing, and stock to forecasted demand |
+| Electronics outperform other categories  | Prioritize these categories with targeted promotions and optimized pricing.|
+|Revenue peaks sharply in early 2024, stabilizes, and is forecasted to grow moderately through 2026. | Align promotional campaigns, staffing, and stock to forecasted demand |
 | Majority shipments via Intelcom (44%)       | Diversify carriers to reduce operational risk and negotiate better terms |
 | Profit margin is over one-quarter of total revenue | Set target margin, monitor cost-by-city, and validate expansion feasibility |
 

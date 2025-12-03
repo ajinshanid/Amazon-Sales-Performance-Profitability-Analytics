@@ -19,7 +19,6 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 - Sales Managers: Prioritize growth strategies and promotions using region/category insights
 - Business/Data Analysts: Spot patterns and communicate findings using robust KPIs and forecasts
 - Operations & Logistics: Monitor carrier concentration, mitigate delivery risks
-- Leadership/Executives: Drive strategic expansion, cost control, and resource planning using predictive analytics
 
 **Value:**  
 - Clear, vertically aligned KPIs: Revenue, Cost, Profit, Profit Margin %

@@ -68,17 +68,6 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 ---
 
-## Skills Demonstrated
-
-- **Realistic Data Preparation** from raw, messy sources
-- **Cloud-scale SQL Modeling** for flexible, high-speed analytics
-- **Business KPI Design and Trend Analysis** using DAX, Power BI visuals
-- **Story-First Dashboard Layout:** Guided insight flow, clear alignment, action focus
-- **Forecasting and Scenario Planning:** Built-in Power BI forecasting for month/quarter projections
-- **Clear Documentation** with actionable business recommendations after each analysis
-
----
-
 ## Summary
 
 The dashboard and supporting analytics pipeline are purpose-built for business impact. Insights are presented in a clear, visually aligned format that ensures quick comprehension and drives targeted action. Forecasting capabilities, transparent KPIs, and a logically structured layout combine to make this solution a powerful asset for managers and executives, assisting smarter decisions from everyday operations to long-term strategic planning.

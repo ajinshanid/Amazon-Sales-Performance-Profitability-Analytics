@@ -22,7 +22,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 **Value:**  
 - Vertically aligned KPIs provide an immediate view of commercial performance.
-- Revenue trend and forecast visuals inform forward-looking planning for stock and resourcing
+- Profit trend and forecast visuals inform forward-looking planning for stock and resourcing
 - A structured layout guides high‑level results to detailed operational insights.
 
 ---
@@ -46,11 +46,11 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Logical Visual Flow for Storytelling:**
 - **KPI Cards (first column, top-to-bottom):** Revenue → Cost → Profit → Profit Margin % → Units Sold (vertically aligned)
 - **Top Row:**  
-  - **Revenue by City (Bar Chart):** Focused comparison, not timeline. *
-  - **Category Price and Cost Distribution (Scatter Plot with Legend):** Compares categories clearly; legend for instant interpretation.
+  - **Revenue by City (Bar Chart):** Highlights the cities contributing the highest share of revenue
+  - **Category Price and Cost Distribution (Scatter Plot):** Plots categories by average price and cost to separate high‑margin from underperforming segments.
 - **Bottom Row:**  
-  - **Profit Trend and Forecast (Line Chart):** Monthly profit history + future predictions.
-  - **Units Sold by Shipment Carrier (Donut Chart):** Instantly see logistics risk profile.
+  - **Profit Trend and Forecast (Line Chart):** Shows monthly profit history and projected values.
+  - **Units Sold by Shipment Carrier (Donut Chart):** Displays volume share by carrier to quickly assess logistics.
 
 ---
 
@@ -59,7 +59,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 | Findings                                    | Recommended Actions                                              |
 |---------------------------------------------|------------------------------------------------------------------|
 | Top cities concentrate revenue              | Expand digital marketing and supply in leading regions          |
-| Electronics outperform other categories  | Prioritize these categories with targeted promotions and optimized pricing.|
+| Beauty & Personal Care has the highest margin, while Grocery has the highest price but a relatively smaller margin.|Focus growth efforts on high‑margin categories like Beauty & Personal Care through prioritized assortment and targeted promotions.|
 |Revenue peaks sharply in early 2024, stabilizes, and is forecasted to grow moderately through 2026. | Align promotional campaigns, staffing, and stock to forecasted demand |
 | Majority shipments via Intelcom (44%)       | Diversify carriers to reduce operational risk and negotiate better terms |
 | Profit margin is over one-quarter of total revenue | Set target margin, monitor cost-by-city, and validate expansion feasibility |

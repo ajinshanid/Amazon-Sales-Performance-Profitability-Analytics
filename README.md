@@ -1,4 +1,4 @@
-`# Amazon Sales Performance & Profitability Analytics  
+# Amazon Sales Performance & Profitability Analytics  
 ### Data Analysis Using Python, SQL (Snowflake), and Power BI
 
 ---

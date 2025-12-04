@@ -6,7 +6,7 @@
 ## Business Objective
 
 Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
-- Pinpoint where and why revenue, profit, and margin shift across cities and categories
+- Pinpoint where and why revenue, profit, and margin shift across provinces and categories
 - Plan ahead for seasonal changes using data-driven forecasting
 - Reduce risk and optimize logistics by understanding shipment carrier dependencies
 - Enable actionable decisions on investment, inventory, staffing, and promotions
@@ -16,7 +16,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 ## Target Audience & Value
 
 **Audience:**
-- Sales Managers: Prioritize growth strategies and promotions using region/category insights
+- Sales Managers: Prioritize growth strategies and promotions using region and category insights
 - Business/Data Analysts: Spot patterns and communicate findings using robust KPIs and forecasts
 - Operations & Logistics: Monitor carrier concentration, mitigate delivery risks
 
@@ -46,7 +46,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Logical Visual Flow for Storytelling:**
 - **KPI Cards (first column, top-to-bottom):** Revenue → Cost → Profit → Profit Margin % → Units Sold (vertically aligned)
 - **Top Row:**  
-  - **Revenue by City (Bar Chart):** Highlights the cities contributing the highest share of revenue
+  - **Revenue by City (Bar Chart):** Highlights the provinces contributing the highest share of revenue
   - **Category Price and Cost Distribution (Scatter Plot):** Plots categories by average price and cost to separate high‑margin from underperforming segments.
 - **Bottom Row:**  
   - **Profit Trend and Forecast (Line Chart):** Shows monthly profit history and projected values.
@@ -58,7 +58,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 | Findings                                    | Recommended Actions                                              |
 |---------------------------------------------|------------------------------------------------------------------|
-| Top cities concentrate revenue              | Expand digital marketing and supply in leading regions          |
+| Top provinces Quebec and Ontario together generate about as much revenue as several mid‑tier provinces combined, showing how heavily sales are concentrated in a few regions.          | Expand digital marketing and supply in leading regions          |
 | Beauty & Personal Care has the highest margin, while Grocery has the highest price but a relatively smaller margin.|Focus growth efforts on high‑margin categories like Beauty & Personal Care through prioritized assortment and targeted promotions.|
 |Revenue peaks sharply in early 2024, stabilizes, and is forecasted to grow moderately through 2026. | Align promotional campaigns, staffing, and stock to forecasted demand |
 | Majority shipments via Intelcom (44%)       | Diversify carriers to reduce operational risk and negotiate better terms |

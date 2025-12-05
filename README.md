@@ -31,12 +31,12 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 **Workflow:**
 1. **Data Sources:** Import a synthetic Amazon‑style sales dataset created by combining and reshaping multiple public e‑commerce samples
-2. **Python (Pandas):** Clean, standardize, and enrich all records
+2. **Python (Pandas):** Clean, standardize, and format all records
 3. **Snowflake:** Created star schema consisting of Fact table and dimensions for Date, Product, City, Manager and Carrier
 4. **Power BI:**  
-   - Direct Snowflake connector for live dashboards
+   - Direct Snowflake connector for creating interactive dashboards
    - DAX-calculated KPIs (Revenue, Cost, Profit, Profit Margin %)
-   - Visual and time series forecasting
+   - Enabled built‑in Power Bi time‑series forecasting on the line chart to estimate future predications.
    - Slicers/filters for province, category, shipment carrier, month, and year
 
 ---

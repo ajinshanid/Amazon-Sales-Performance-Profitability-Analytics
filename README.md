@@ -58,7 +58,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 
 | Findings                                    | Recommended Actions                                              |
 |---------------------------------------------|------------------------------------------------------------------|
-| Top provinces Quebec and Ontario together generate about as much revenue as several mid‑tier provinces combined, showing how heavily sales are concentrated in a few regions.          | Expand digital marketing and supply in leading regions          |
+| Quebec and Ontario generate revenue comparable to several mid-tier provinces combined, underscoring a significant regional sales concentration.| Expand digital marketing and supply in leading regions          |
 | Beauty & Personal Care has the highest margin, while Grocery has the highest price but a relatively smaller margin.|Focus growth efforts on high‑margin categories like Beauty & Personal Care through prioritized assortment and targeted promotions.|
 |Revenue peaks sharply in early 2024, stabilizes, and is forecasted to grow moderately through 2026. | Align promotional campaigns, staffing, and stock to forecasted demand |
 | Majority shipments via Intelcom (44%)       | Diversify carriers to reduce operational risk and negotiate better terms |

@@ -37,7 +37,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
    - Direct Snowflake connector for live dashboards
    - DAX-calculated KPIs (Revenue, Cost, Profit, Profit Margin %)
    - Visual and time series forecasting
-   - Slicers/filters for city, category, shipment carrier, month, and year
+   - Slicers/filters for province, category, shipment carrier, month, and year
 
 ---
 
@@ -46,7 +46,7 @@ Deliver a dashboard that **empowers Amazon sales and strategy teams** to:
 **Logical Visual Flow for Storytelling:**
 - **KPI Cards (first column, top-to-bottom):** Revenue → Cost → Profit → Profit Margin % → Units Sold (vertically aligned)
 - **Top Row:**  
-  - **Revenue by City (Bar Chart):** Highlights the provinces contributing the highest share of revenue
+  - **Revenue by Provence(Bar Chart):** Highlights the provinces contributing the highest share of revenue
   - **Category Price and Cost Distribution (Scatter Plot):** Plots categories by average price and cost to separate high‑margin from underperforming segments.
 - **Bottom Row:**  
   - **Profit Trend and Forecast (Line Chart):** Shows monthly profit history and projected values.
